@@ -1,5 +1,0 @@
-customtkinter
-tkintermapview
-geocoder
-Pillow
-pyobjc-framework-CoreWLAN
