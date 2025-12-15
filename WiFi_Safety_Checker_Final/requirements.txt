@@ -1,0 +1,5 @@
+# Project Dependencies
+PyQt6
+PyQt6-WebEngine
+geocoder
+Pillow
